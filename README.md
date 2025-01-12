@@ -9,8 +9,8 @@ Capcut
 Silhouette Studio
 
 ✨ Como foi feito ?
-Roteiro gerado via chatgpt, e adaptado por mim
-Audio gerado pela elevenLabs
-Silhouette Para gerar capas
-Capcut para tratar aúdio e adicionar sons de fundo
+Roteiro gerado via chatgpt, e adaptado por mim;
+Audio gerado pela elevenLabs;
+Silhouette Para gerar capas;
+Capcut para tratar aúdio e adicionar sons de fundo;
 
