@@ -15,4 +15,4 @@ Silhouette Para gerar capas;
 Capcut para tratar aúdio e adicionar sons de fundo;
 
 ✨ Prompts
-Crie uma apresentação para podcast com o nome Nani, apos a apresentação crie um script para este poodcast de forma simples, criativa, informal e com dicas sobre educação financeira.O podecast se destina a jovens que recem atingiram a maioridade.
+Crie uma apresentação para podcast com a apresentadora Nani, apos a apresentação crie um script para este poodcast de forma simples, criativa, informal e com dicas sobre educação financeira.O podecast se destina a pessoas entre 20 e 35 anos 
